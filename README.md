@@ -10,11 +10,6 @@
 <a href="https://www.linkedin.com/in/juan-helpes-61864a22b" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Mais Projetos:
-<div>
-<a href="https://replit.com/@JuanHelpes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>   
-</div>
-
 ## Stats:
 <div>
 <a href="https://github.com/JuanHelpes">
