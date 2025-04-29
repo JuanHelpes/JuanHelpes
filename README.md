@@ -1,6 +1,6 @@
 # Olá, Bem vindo ao meu perfil GitHub 👋 
 ## Sobre mim:
-### Me chamo Juan Helpes Albano residente de Cataguases-MG e sou estudante de Engenharia de Computação pelo CEFET-MG campus Leopoldina.
+### Me chamo Juan Helpes Albano e sou formado em Engenharia de Computação pelo CEFET-MG campus Leopoldina.
 
 ## Contatos:
 
